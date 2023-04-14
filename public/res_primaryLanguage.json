@@ -35,18 +35,22 @@
         ]
       },
       {
-        "title": "301 Project",
+        "title": "Salmon Cookies",
         "startDate": "2023",
-        "description": "Coming Soon",
+        "description": "A proof of concept application to calculate the number of cookies each location must make every day so that it can manage its supplies inventory and baking schedule",
         "images": [
-          "images/portfolio/301proj/placeholder.jpg",
-          "images/portfolio/301proj/placeholder.jpg"
+          "images/portfolio/salmoncookies/salmon1.jpg",
+          "images/portfolio/salmoncookies/salmon2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/KaedenOC/cookie-stand",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,7 +59,7 @@
         ]
       },
       {
-        "title": "401 Project",
+        "title": "301 Project",
         "startDate": "2023",
         "description": "Coming Soon",
         "images": [
