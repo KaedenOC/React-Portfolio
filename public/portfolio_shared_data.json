@@ -5,16 +5,21 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/KaedenOC",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/kaedenkcb/",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/kaeden-o-meara-b2aa0b267/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "self.jpg"
     },
     "skills": {
       "icons": [
